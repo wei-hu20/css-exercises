@@ -1,9 +1,12 @@
-first-elem {
-
+.first-elem, .second-elem {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
-second-elem {
 
+.first-elem {
+    background-color: black;
+    color: white;
 }
-firstAndSecond-elem {
-    
+.second-elem {
+    background-color: yellow;
 }
