@@ -1,0 +1,18 @@
+odd-element {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+2nd-element {
+    color: #0000cd;
+    font-size: 36px;
+}
+
+3rd-element, 4th-element {
+    font-size: 24px;
+}
+
+4th-element {
+    background-color: #90EE90;
+    font-weight: bold;
+}
